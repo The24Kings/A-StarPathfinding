@@ -1,0 +1,13 @@
+Start Position: (4,9)
+
+Actions:
+Move Up
+Move Left
+Move Left
+Move Down
+Suck
+Move Right
+Move Right
+Dump
+
+Final Position: (4,9)
