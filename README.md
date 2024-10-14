@@ -1,1 +1,1 @@
-# MaxClique
+# A-Star Pathfinding
